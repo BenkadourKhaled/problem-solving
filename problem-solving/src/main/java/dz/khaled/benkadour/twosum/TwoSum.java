@@ -1,6 +1,5 @@
 package dz.khaled.benkadour.twosum;
 
-import javax.swing.*;
 import java.util.Arrays;
 import java.util.Scanner;
 
