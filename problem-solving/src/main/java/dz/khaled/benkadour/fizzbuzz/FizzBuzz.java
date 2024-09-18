@@ -14,7 +14,6 @@ import java.util.Scanner;
  * @Project_Name : problem-solving
  */
 public class FizzBuzz {
-
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
@@ -32,8 +31,5 @@ public class FizzBuzz {
                 System.out.println(i);
             }
         }
-
     }
-
-
 }

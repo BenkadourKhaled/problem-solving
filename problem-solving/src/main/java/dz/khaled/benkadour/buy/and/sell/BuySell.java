@@ -1,4 +1,4 @@
-package dz.khaled.benkadour.buy.an.dell;
+package dz.khaled.benkadour.buy.and.sell;
 
 import java.util.Scanner;
 
